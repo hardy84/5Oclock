@@ -1,4 +1,4 @@
-5Oclock
+5 Oclock
 =======
 
-Javato calculate where it's 5 oclock
+Java to calculate where it's 5 oclock at any time of the day
